@@ -1,4 +1,4 @@
-# 📊 Retail Sales Analysis | From Raw Data → Actionable Business Insights
+#  Retail Sales Analysis | From Raw Data → Actionable Business Insights
 
 ## Dashboard Preview
 
