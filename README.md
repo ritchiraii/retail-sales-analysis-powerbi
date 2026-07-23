@@ -156,7 +156,7 @@ The resulting dataset provided a reliable foundation for business reporting and 
 ## Data Model
 
 <p align="center">
-  <img src="Data model1.png" width="75%">
+  <img src="Data Model1.png" width="75%">
 </p>
 
 The report is built around a central Sales fact table with a dedicated Date table for time intelligence. Two disconnected parameter tables (Metrics and Performance Scope) enable dynamic KPI and performance selection, resulting in a flexible and maintainable reporting model.
