@@ -158,7 +158,7 @@ The resulting dataset provided a reliable foundation for business reporting and 
 ## Data Model
 
 <p align="center">
-  <img src="assets/data-model.png" width="75%">
+  <img src="Data model.png" width="75%">
 </p>
 
 The report is built around a central Sales fact table with a dedicated Date table for time intelligence. Two disconnected parameter tables (Metrics and Performance Scope) enable dynamic KPI and performance selection, resulting in a flexible and maintainable reporting model.
@@ -231,16 +231,6 @@ This dashboard answers the following business questions:
 
 Is business growth being driven by stronger customer spending or increased purchasing activity?
 
-### Supporting Visual
-
-> 📸 Insert cropped **Revenue KPI** and **Revenue Trend** chart.
-
-```text
-assets/revenue-kpi.png
-
-assets/revenue-trend.png
-```
-
 ### Evidence
 
 - Revenue reached **$2.30M**.
@@ -303,14 +293,6 @@ Increase inventory availability, promote premium technology products, and priori
 ### Business Question
 
 Which category requires immediate operational improvement?
-
-### Supporting Visual
-
->  Insert cropped **Category Profit** chart.
-
-```text
-assets/category-profit.png
-```
 
 ### Evidence
 
@@ -632,14 +614,6 @@ Expand Technology inventory, strengthen supplier relationships, and prioritize c
 ### Business Question
 
 Which category presents the greatest profitability challenge?
-
-### Supporting Visual
-
-> 📸 Insert **Category Comparison Visual**
-
-```text
-assets/furniture-analysis.png
-```
 
 ### Evidence
 
