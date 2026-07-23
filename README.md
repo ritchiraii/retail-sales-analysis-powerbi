@@ -1,9 +1,7 @@
 #  Retail Sales Performance Analysis
 
-> **An end-to-end Business Intelligence project built in Power BI to evaluate retail sales performance, profitability, customer purchasing behavior, regional performance, and pricing effectiveness from 2014–2017.**
-
 <p align="center">
-<img src="assets/hero-dashboard.png" width="100%">
+<img src="logo.png" width="80%">
 </p>
 
 ---
@@ -85,10 +83,6 @@ This report was designed to answer the following strategic business questions.
 # Executive Summary
 
 Over the four-year reporting period (2014–2017), the business generated **$2.30M in revenue** from **5,009 customer orders**, producing **$286.4K in profit** while maintaining an overall **12.47% profit margin**. Revenue increased by **46.9%**, supported primarily by a **50.8% increase in order volume**, demonstrating strong customer acquisition and business expansion. However, declining Average Order Value suggests customers are placing more frequent but lower-value orders. Technology remained the strongest-performing product category, while Furniture consistently underperformed in profitability. Regional analysis further revealed significant differences in operational efficiency, with the West region delivering the highest margins and the Central region requiring immediate attention.
-
-<p align="center">
-<img src="assets/executive-dashboard.png" width="100%">
-</p>
 
 ---
 
