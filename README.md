@@ -942,13 +942,6 @@ This project demonstrates both technical implementation and business analysis sk
 - Data transformation
 - Data type optimization
 
-### Data Modeling
-
-- Star Schema implementation
-- Fact and dimension modeling
-- Relationship optimization
-- Calendar table for time intelligence
-
 ### DAX Development
 
 The report includes more than **60 custom DAX measures**, including:
@@ -975,62 +968,6 @@ The report includes more than **60 custom DAX measures**, including:
 
 ---
 
-# Business Skills Demonstrated
-
-| Business Analysis | Business Intelligence |
-|-------------------|-----------------------|
-| KPI Development | Power BI |
-| Executive Reporting | DAX |
-| Stakeholder Analysis | Power Query |
-| Business Storytelling | Data Modeling |
-| Trend Analysis | Interactive Dashboards |
-| Pricing Analysis | Time Intelligence |
-| Product Portfolio Analysis | Star Schema Design |
-| Geographic Performance Analysis | Advanced Visualizations |
-| Profitability Analysis | Performance Optimization |
-
----
-
-# Repository Structure
-
-```text
-Retail-Sales-Performance-Analysis/
-
-│── README.md
-│
-├── assets/
-│   ├── hero-dashboard.png
-│   ├── executive-dashboard.png
-│   ├── retail-overview-dashboard.png
-│   ├── sales-performance-deep-dive.png
-│   ├── revenue-trend.png
-│   ├── category-profit.png
-│   ├── revenue-map.png
-│   ├── regional-margin-matrix.png
-│   ├── customer-segment-treemap.png
-│   ├── discount-scatter.png
-│   ├── pareto-analysis.png
-│   ├── product-profitability-table.png
-│   └── data-model.png
-│
-├── dashboard/
-│   └── Retail Sales Dashboard.pbix
-│
-├── docs/
-│   ├── business-insights.md
-│   ├── data-model.md
-│   ├── data-cleaning.md
-│   ├── dax-measures.md
-│   └── methodology.md
-│
-├── sql/
-│   └── data-cleaning.sql
-│
-└── data/
-    └── Superstore.csv
-```
-
----
 
 # Project Outcomes
 
@@ -1046,18 +983,6 @@ The analysis identified:
 - Opportunities to improve pricing strategy through more targeted discount policies.
 
 The recommendations presented throughout this report provide a practical roadmap for increasing profitability, optimizing pricing decisions, strengthening regional performance, and supporting long-term business growth.
-
----
-
-# Tools & Technologies
-
-- **Power BI**
-- **Power Query**
-- **DAX**
-- **Data Modeling**
-- **Microsoft Excel**
-- **Business Intelligence**
-- **Data Visualization**
 
 ---
 
