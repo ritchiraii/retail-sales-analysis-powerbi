@@ -260,11 +260,9 @@ Which product category contributes the greatest share of company profit?
 
 ### Supporting Visual
 
-> 📸 Insert cropped **Profit by Category** chart.
-
-```text
-assets/category-profit.png
-```
+<p align="center">
+  <img src="Profit by category.png" width="70%">
+</p>
 
 ### Evidence
 
@@ -322,11 +320,9 @@ Which regions operate most efficiently?
 
 ### Supporting Visual
 
->  Insert cropped **Regional Margin Matrix**.
-
-```text
-assets/regional-margin-matrix.png
-```
+<p align="center">
+  <img src="regional-margin-matrix.png" width="100%">
+</p>
 
 ### Evidence
 
@@ -359,11 +355,9 @@ Which geographic markets generate the highest sales?
 
 ### Supporting Visual
 
->  Insert cropped **Revenue Map**.
-
-```text
-assets/revenue-map.png
-```
+<p align="center">
+  <img src="Revenue Map.png" width="100%">
+</p>
 
 ### Evidence
 
@@ -399,11 +393,9 @@ Does customer demand vary throughout the year?
 
 ### Supporting Visual
 
-> 📸 Insert cropped **Monthly Revenue Trend**.
-
-```text
-assets/revenue-trend.png
-```
+<p align="center">
+  <img src="Monthly Revenue Trend.png" width="100%">
+</p>
 
 ### Evidence
 
@@ -507,11 +499,9 @@ How much revenue is being invested in promotional discounts?
 
 ### Supporting Visual
 
-> 📸 Insert **Discount KPI Card**
-
-```text
-assets/discount-kpi.png
-```
+<p align="center">
+  <img src="Discount KPI Card.png" width="100%">
+</p>
 
 ### Evidence
 
@@ -540,11 +530,9 @@ Which customer segment contributes the greatest share of revenue?
 
 ### Supporting Visual
 
-> 📸 Insert **Customer Segment Treemap**
-
-```text
-assets/customer-segment-treemap.png
-```
+<p align="center">
+  <img src="Customer Segment Treemap.png" width="100%">
+</p>
 
 ### Evidence
 
@@ -581,11 +569,11 @@ Which product category consistently generates the highest financial return?
 
 ### Supporting Visual
 
-> 📸 Insert **Category Margin Chart**
+# Retail Performance Overview
 
-```text
-assets/category-margin.png
-```
+<p align="center">
+  <img src="Category Margin Chart.png" width="100%">
+</p>
 
 ### Evidence
 
@@ -650,11 +638,9 @@ Which products drive the majority of business revenue?
 
 ### Supporting Visual
 
-> 📸 Insert **Pareto Chart**
-
-```text
-assets/pareto-analysis.png
-```
+<p align="center">
+  <img src="Pareto Chart.png" width="100%">
+</p>
 
 ### Evidence
 
@@ -682,11 +668,9 @@ Do higher discounts improve business performance?
 
 ### Supporting Visual
 
-> 📸 Insert **Discount vs Profit Scatter Plot**
-
-```text
-assets/discount-scatter.png
-```
+<p align="center">
+  <img src="Discount vs Profit Scatter Plot.png" width="100%">
+</p>
 
 ### Evidence
 
@@ -714,11 +698,10 @@ Which products require immediate pricing review?
 
 ### Supporting Visual
 
-> 📸 Insert **Product Profitability Table**
+<p align="center">
+  <img src="product-profitability-table.png" width="100%">
+</p>
 
-```text
-assets/product-profitability-table.png
-```
 
 ### Evidence
 
