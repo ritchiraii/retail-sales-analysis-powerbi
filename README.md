@@ -261,7 +261,7 @@ Which product category contributes the greatest share of company profit?
 ### Supporting Visual
 
 <p align="center">
-  <img src="Profit by category.png" width="70%">
+  <img src="Profit by category2.png" width="70%">
 </p>
 
 ### Evidence
@@ -500,7 +500,7 @@ How much revenue is being invested in promotional discounts?
 ### Supporting Visual
 
 <p align="center">
-  <img src="Discount KPI Card.png" width="50%">
+  <img src="Discount KPI Card.png" width="40%">
 </p>
 
 ### Evidence
