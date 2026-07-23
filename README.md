@@ -500,7 +500,7 @@ How much revenue is being invested in promotional discounts?
 ### Supporting Visual
 
 <p align="center">
-  <img src="Discount KPI Card.png" width="40%">
+  <img src="Discount KPI Card2.png" width="40%">
 </p>
 
 ### Evidence
@@ -941,9 +941,9 @@ The recommendations presented throughout this report provide a practical roadmap
 
 If you have feedback, suggestions, or would like to discuss this project, feel free to connect with me.
 
-**LinkedIn:** *(Add your profile)*
+**LinkedIn:** *https://www.linkedin.com/in/ritch-rai-4b8b23269/*
 
-**GitHub:** *(Add your profile)*
+**GitHub:** *https://github.com/ritchiraii*
 
 ---
 ⭐ If you found this project helpful or interesting, consider giving the repository a **Star**!
