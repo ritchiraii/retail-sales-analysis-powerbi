@@ -500,7 +500,7 @@ How much revenue is being invested in promotional discounts?
 ### Supporting Visual
 
 <p align="center">
-  <img src="Discount KPI Card.png" width="100%">
+  <img src="Discount KPI Card.png" width="50%">
 </p>
 
 ### Evidence
