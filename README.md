@@ -1,7 +1,7 @@
 #  Retail Sales Performance Analysis
 
 <p align="center">
-<img src="logo.png" width="80%">
+<img src="assets/logo.png" width="80%">
 </p>
 
 # Client Background
@@ -156,7 +156,7 @@ The resulting dataset provided a reliable foundation for business reporting and 
 ## Data Model
 
 <p align="center">
-  <img src="Data Model1.png" width="75%">
+  <img src="assets/Data Model1.png" width="75%">
 </p>
 
 The report is built around a central Sales fact table with a dedicated Date table for time intelligence. Two disconnected parameter tables (Metrics and Performance Scope) enable dynamic KPI and performance selection, resulting in a flexible and maintainable reporting model.
@@ -169,7 +169,7 @@ The report is built around a central Sales fact table with a dedicated Date tabl
 # Retail Performance Overview
 
 <p align="center">
-  <img src="dashboard_preview.png.png" width="100%">
+  <img src="assets/dashboard_preview.png.png" width="100%">
 </p>
 
 ## Dashboard Purpose
@@ -259,7 +259,7 @@ Which product category contributes the greatest share of company profit?
 ### Supporting Visual
 
 <p align="center">
-  <img src="Profit by category2.png" width="70%">
+  <img src="assets/Profit by category2.png" width="70%">
 </p>
 
 ### Evidence
@@ -319,7 +319,7 @@ Which regions operate most efficiently?
 ### Supporting Visual
 
 <p align="center">
-  <img src="regional-margin-matrix.png" width="100%">
+  <img src="assets/regional-margin-matrix.png" width="100%">
 </p>
 
 ### Evidence
@@ -354,7 +354,7 @@ Which geographic markets generate the highest sales?
 ### Supporting Visual
 
 <p align="center">
-  <img src="Revenue Map.png" width="100%">
+  <img src="assets/Revenue Map.png" width="100%">
 </p>
 
 ### Evidence
@@ -392,7 +392,7 @@ Does customer demand vary throughout the year?
 ### Supporting Visual
 
 <p align="center">
-  <img src="Monthly Revenue Trend.png" width="100%">
+  <img src="assets/Monthly Revenue Trend.png" width="100%">
 </p>
 
 ### Evidence
@@ -434,7 +434,7 @@ The Retail Performance Overview dashboard demonstrates that the business achieve
 # Sales Performance Deep Dive
 
 <p align="center">
-  <img src="dashboard_preview.png2.png" width="100%">
+  <img src="assets/dashboard_preview.png2.png" width="100%">
 </p>
 
 ## Dashboard Purpose
@@ -498,7 +498,7 @@ How much revenue is being invested in promotional discounts?
 ### Supporting Visual
 
 <p align="center">
-  <img src="Discount KPI Card2.png" width="40%">
+  <img src="assets/Discount KPI Card2.png" width="40%">
 </p>
 
 ### Evidence
@@ -529,7 +529,7 @@ Which customer segment contributes the greatest share of revenue?
 ### Supporting Visual
 
 <p align="center">
-  <img src="Customer Segment Treemap.png" width="100%">
+  <img src="assets/Customer Segment Treemap.png" width="100%">
 </p>
 
 ### Evidence
@@ -570,7 +570,7 @@ Which product category consistently generates the highest financial return?
 # Retail Performance Overview
 
 <p align="center">
-  <img src="Category Margin Chart.png" width="100%">
+  <img src="assets/Category Margin Chart.png" width="100%">
 </p>
 
 ### Evidence
@@ -637,7 +637,7 @@ Which products drive the majority of business revenue?
 ### Supporting Visual
 
 <p align="center">
-  <img src="Pareto Chart.png" width="100%">
+  <img src="assets/Pareto Chart.png" width="100%">
 </p>
 
 ### Evidence
@@ -667,7 +667,7 @@ Do higher discounts improve business performance?
 ### Supporting Visual
 
 <p align="center">
-  <img src="Discount vs Profit Scatter Plot.png" width="100%">
+  <img src="assets/Discount vs Profit Scatter Plot.png" width="100%">
 </p>
 
 ### Evidence
@@ -697,7 +697,7 @@ Which products require immediate pricing review?
 ### Supporting Visual
 
 <p align="center">
-  <img src="product-profitability-table.png" width="100%">
+  <img src="assets/product-profitability-table.png" width="100%">
 </p>
 
 
